@@ -1,5 +1,9 @@
 # Assignment-1-Devops-Tutedue
+
 Assignment 1 - Linux- Devops Tutetude - Manas
+
+https://docs.google.com/document/d/1i2xaSp1lzynG6xCkTd7TYEYPT0Qul7fTnxTwKBSuaK4/edit?usp=sharing
+
 
 1 Creating and Renaming Files/Directories
 
