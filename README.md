@@ -3,7 +3,7 @@
 Assignment 1 - Linux- Devops Tutetude - Manas
 
 https://docs.google.com/document/d/1i2xaSp1lzynG6xCkTd7TYEYPT0Qul7fTnxTwKBSuaK4/edit?usp=sharing
-
+Reference github - https://gist.github.com/riipandi/3097780
 
 1 Creating and Renaming Files/Directories
 
